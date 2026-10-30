@@ -31,10 +31,9 @@ MS Computer Science (AI/ML) student at the **University at Buffalo** (GPA 3.7, g
 | [Star Wars Planets](https://github.com/pranaylachuluri/starwars-planets) | [starwars-planets-rouge.vercel.app](https://starwars-planets-rouge.vercel.app) | React, REST API |
 | [AirPods Website](https://github.com/pranaylachuluri/Airpods-website) | [Live site](https://pranaylachuluri.github.io/Airpods-website/) | HTML, SCSS, GSAP |
 | [Blackjack](https://github.com/pranaylachuluri/Black-Jack) | [Play it](https://pranaylachuluri.github.io/Black-Jack/) | JavaScript |
-| [YouTube Clone](https://github.com/pranaylachuluri/Youtube-clone) | [Live site](https://pranaylachuluri.github.io/Youtube-clone/) | HTML, CSS |
 | [College ID Verification](https://github.com/pranaylachuluri/ID-Verification) | [Download APK](https://github.com/pranaylachuluri/ID-Verification/raw/main/app-release.apk) | Java, Android, OCR |
 
-More: [ML models from my YHills internship](https://github.com/pranaylachuluri/Machine-Learning-Models) · [Data preprocessing pipeline](https://github.com/pranaylachuluri/IML-Assignment-1) · [Java DSA & SQL practice](https://github.com/pranaylachuluri/FS-A1) · [Minutes Life (Kotlin)](https://github.com/pranaylachuluri/MinutesLife-App)
+More: [ML models from my YHills internship](https://github.com/pranaylachuluri/Machine-Learning-Models) · [Data preprocessing pipeline](https://github.com/pranaylachuluri/IML-Assignment-1) · [Minutes Life (Kotlin)](https://github.com/pranaylachuluri/MinutesLife-App)
 
 ## Tech stack
 
