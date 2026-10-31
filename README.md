@@ -37,6 +37,6 @@ More: [ML models from my YHills internship](https://github.com/pranaylachuluri/M
 ## Tech stack
 
 **Languages:** Python · SQL · Java · JavaScript  
-**ML / CV:** PyTorch · TensorFlow/Keras · scikit-learn · YOLOv8 · Vision Transformers · U-Net · OpenCV · MediaPipe · Hugging Face Transformers  
+**ML / CV:** PyTorch · TensorFlow/Keras · scikit-learn · YOLOv8 · U-Net · OpenCV · MediaPipe · Hugging Face Transformers  
 **Data:** PySpark · Pandas · NumPy · MySQL · Matplotlib  
 **Tools:** Git · Linux · Docker · ROS 2 · Flask · Gradio · Jupyter · Google Colab
