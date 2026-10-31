@@ -18,8 +18,6 @@ MS Computer Science (AI/ML) student at the **University at Buffalo** (GPA 3.7, g
 
 ## Graduate coursework highlights
 
-- **[Vision Transformer from scratch](https://github.com/pranaylachuluri/deeplearningasignment_50652406)** (Deep Learning): patch embedding, multi-head self-attention and positional embeddings in PyTorch, with ablations on patch size, depth and positional encoding plus attention-entropy analysis.
-- **[Character-level GPT from scratch](https://github.com/pranaylachuluri/deeplearning_fina)** (Deep Learning): causal self-attention, transformer blocks and sampling, trained on Tiny Shakespeare.
 - **[AI security labs](https://github.com/pranaylachuluri/ai-security-labs)** (Computer Security): FGSM and PGD attacks on a ResNet-50 classifier, LLM jailbreaks on StableLM-3B, and hidden-HTML prompt injection on Qwen2.5 (60% attack success) stopped by content filtering, system-prompt hardening and output validation; plus SQL injection and applied cryptography.
 - **[PySpark & data processing](https://github.com/pranaylachuluri/pyspark-data-processing)** (Data-Intensive Computing): PageRank from scratch on Spark RDDs, analytics over 1.9 M NASA web-server requests, and an S&P 500 cleaning and modelling study.
 - **[Intro to ML assignments](https://github.com/pranaylachuluri/intro-ml-assignments)** (Intro to ML): VGG-13 (91.9%) and a custom CNN (91.1%) for 36-class handwritten characters, ResNet-34 from scratch, regression models in NumPy, and n-step Double Q-learning.
