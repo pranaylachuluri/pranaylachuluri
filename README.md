@@ -1,4 +1,4 @@
-# Hi, I'm Pranay Lachuluri 👋
+# Hi, I'm Pranay Lachuluri 
 
 MS Computer Science (AI/ML) student at the **University at Buffalo** (GPA 3.7, graduating January 2027). I build computer vision and deep learning systems. Since September 2026 I've been a **Graduate Research Assistant** on UB's ASAP project, collecting and calibrating multi-sensor data (hyperspectral, RGB, thermal, mmWave radar on ROS 2) for an autonomous plastic-sorting system.
 
