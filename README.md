@@ -19,7 +19,6 @@ MS Computer Science (AI/ML) student at the **University at Buffalo** (GPA 3.7, g
 ## Graduate coursework highlights
 
 - **[AI security labs](https://github.com/pranaylachuluri/ai-security-labs)** (Computer Security): FGSM and PGD attacks on a ResNet-50 classifier, LLM jailbreaks on StableLM-3B, and hidden-HTML prompt injection on Qwen2.5 (60% attack success) stopped by content filtering, system-prompt hardening and output validation; plus SQL injection and applied cryptography.
-- **Transformers from scratch** (Deep Learning): a [Vision Transformer](https://github.com/pranaylachuluri/vision-transformer-from-scratch) on CIFAR-10 with ablations on patch size, depth and positional encoding (2×2 patches 49.3% vs 40.4% for 8×8), and a [character-level GPT](https://github.com/pranaylachuluri/char-gpt-from-scratch) with causal self-attention trained on Tiny Shakespeare.
 - **[PySpark & data processing](https://github.com/pranaylachuluri/pyspark-data-processing)** (Data-Intensive Computing): PageRank from scratch on Spark RDDs, analytics over 1.9 M NASA web-server requests, and an S&P 500 cleaning and modelling study.
 - **[Intro to ML assignments](https://github.com/pranaylachuluri/intro-ml-assignments)** (Intro to ML): VGG-13 (91.9%) and a custom CNN (91.1%) for 36-class handwritten characters, ResNet-34 from scratch, regression models in NumPy, and n-step Double Q-learning.
 - **Pintos kernel** (Operating Systems, team of 3): priority scheduling, a sleep-based alarm clock, argument passing and system calls (`exec`, `wait`, file descriptors) in C. Code is private under course policy.
@@ -38,6 +37,6 @@ More: [ML models from my YHills internship](https://github.com/pranaylachuluri/M
 ## Tech stack
 
 **Languages:** Python · SQL · Java · JavaScript  
-**ML / CV:** PyTorch · TensorFlow/Keras · scikit-learn · YOLOv8 · U-Net · Vision Transformers · OpenCV · MediaPipe · Hugging Face Transformers  
+**ML / CV:** PyTorch · TensorFlow/Keras · scikit-learn · YOLOv8 · U-Net · OpenCV · MediaPipe · Hugging Face Transformers  
 **Data:** PySpark · Pandas · NumPy · MySQL · Matplotlib  
 **Tools:** Git · Linux · Docker · ROS 2 · CVAT · FiftyOne · Flask · Gradio · Jupyter · Google Colab
