@@ -10,7 +10,7 @@ MS Computer Science (AI/ML) student at the **University at Buffalo** (GPA 3.7, g
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [Trash Detection with YOLOv8](https://github.com/pranaylachuluri/trash-detection-yolov8) | Detects 59 litter classes, maps trash hotspots and scores scene cleanliness 0–100 in a Gradio app. mAP@50-95 +44% over the YOLOv8n baseline. | YOLOv8, PyTorch, OpenCV, Gradio |
+| [Trash Detection with YOLOv8](https://github.com/pranaylachuluri/trash-detection-yolov8) · [Live demo](https://huggingface.co/spaces/Pranayla/trash-detection) | Detects 59 litter classes, maps trash hotspots and scores scene cleanliness 0–100. mAP@50-95 +44% over the YOLOv8n baseline. | YOLOv8, PyTorch, OpenCV, Gradio |
 | [ShadowFix AI](https://github.com/pranaylachuluri/ShadowFix) | Mask-guided U-Net that removes shadows from photos: 30.19 dB PSNR, 0.951 SSIM, +9.63 dB over the input, with automatic and guided Gradio modes. | PyTorch, OpenCV, Gradio |
 | [Sign Language Detection](https://github.com/pranaylachuluri/Sign-Language-detection) | Real-time recognition of 22 gestures from a webcam with MediaPipe landmarks and a stacked LSTM. | TensorFlow/Keras, MediaPipe, OpenCV |
 | [Car Price Prediction](https://github.com/pranaylachuluri/car-price-prediction) | Used-car price estimates served from a scikit-learn pipeline through a Flask web app. | scikit-learn, Flask |
